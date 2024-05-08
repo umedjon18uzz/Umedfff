@@ -1,0 +1,37 @@
+.card img {
+    width: 220px;
+    height: 200px;
+}
+.About {
+
+    font-size: 60px;
+    font-weight: 900;
+    font: 200;
+}
+.inst img {
+    width: 60px;
+    height: 65spx;
+}
+.inst1 img {
+    width: 60px;
+    height: 77 px;
+}
+.inst2 img {
+    width: 75px;
+    height: 60px;
+
+}
+.lorem {
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.lorem1 {
+    border: 1px solid black;
+    border-radius: 30px;
+}
+button {
+    background-color: red;
+}
+.ww1 {
+    background-color: white;
+}
